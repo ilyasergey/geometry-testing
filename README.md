@@ -1,4 +1,4 @@
-# Art Gallery Problem
+# Art Gallery Competition
 ## Scenario Week at UCL-CS (Spring 2016)
 
 This project contains all the sources of the scenario week dedicated
