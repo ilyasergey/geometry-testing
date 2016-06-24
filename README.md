@@ -6,9 +6,11 @@ to solving the Art Gallery Problem.
 
 It also provides, as a part of the development, the source of the
 framework for generation of random polygons with specific "features"
-and QuickCheck-style testing of geometric procedure. Check the test
-files and the section **Generating random polygons** below for more
-examples.
+and QuickCheck-style testing of geometric procedures. For more
+examples, check the test
+files (for instance,
+`src/test/scala/ucl/scenario/geometry/VisibilityCheckerTests.scala`)
+and the section **Generating random polygons** below.
 
 The overall experience of organising the competition and using the
 testing framework is described in the ICFP'16 experience report
