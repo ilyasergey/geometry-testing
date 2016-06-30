@@ -14,8 +14,7 @@ and the section **Generating random polygons** below.
 
 The overall experience of organising the competition and using the
 testing framework is described in the ICFP'16 experience report
-**Growing and Shrinking Polygons for Random Testing
-of Computational Geometry Algorithms**.
+[**Growing and Shrinking Polygons for Random Testing of Computational Geometry Algorithms**](http://ilyasergey.net/papers/polygons-icfp16.pdf).
 
 
 ### Resources
